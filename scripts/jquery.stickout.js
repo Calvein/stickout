@@ -139,8 +139,8 @@
       , fixed: 'stickout-fixed'
     }
 
-   /* STICKOUT PLUGIN DEFINITION
-    * ========================== */
+   /* STICKOUT DATA-API
+    * ================= */
 
     $(window).on('load', function() {
         $('[data-spy="stickout"]').each(function() {

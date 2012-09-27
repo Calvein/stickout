@@ -1,8 +1,8 @@
 Stickout
 ========
 
-Stickout is a [jQuery][] plugin, which works well with the [Twitter bootstrap][], to stick things.
-Stickout is not a polyfill for the new [position: sticky][], it emulates the sticky effect from some mobiles Apps (Google Now, Google+…).
+Stickout is a [jQuery][] plugin, which works well with the [Twitter bootstrap][], to stick things.  
+Stickout is not a polyfill for the new [position: sticky][], it emulates the sticky effect from some mobiles Apps (Google Now, Google+…).  
 Just [try it][], scroll down the example and then, scroll up.
 
 Usage
